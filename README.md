@@ -1,5 +1,5 @@
 # ProjectEuler
-projecteuler.net
+https://projecteuler.net
 
 Most of my earlier solutions are in the site forums.
 
