@@ -1,7 +1,7 @@
 # ProjectEuler
 https://projecteuler.net
 
-Most of my earlier solutions are in the site forums.
+~~Most~~ All of my earlier solutions are in the site forums.
 
 From problem 170 and on in this repo.
 
