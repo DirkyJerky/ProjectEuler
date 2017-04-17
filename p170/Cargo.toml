@@ -1,0 +1,7 @@
+[package]
+authors = ["Geoff Yoerger <geoffreyiy1@gmail.com>"]
+name = "p170"
+version = "0.1.0"
+
+[dependencies]
+bit-vec = "0.4.3"
