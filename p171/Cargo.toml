@@ -1,0 +1,7 @@
+[package]
+name = "p171"
+version = "0.1.0"
+authors = ["Geoff Yoerger <geoffreyiy1@gmail.com>"]
+
+[dependencies]
+lazy_static = "1.4.0"

@@ -5,3 +5,5 @@ version = "0.1.0"
 
 [dependencies]
 bit-vec = "0.4.3"
+permutohedron = "0.2.2"
+primal = "0.2.3"
